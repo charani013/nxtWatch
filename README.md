@@ -2,23 +2,14 @@ In this assignment let's build an **Nxt Watch** by applying the concepts we have
 
 ### Refer to videos below:
 
-**Success View** <br/>
+**Success View** 
 
-<div style="text-align: center;">
-     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+https://user-images.githubusercontent.com/90957976/140600252-429d06ac-e1fc-464c-9e28-40386b218f6d.mp4
 
-**Failure View** <br/>
 
-<div style="text-align: center;">
-    <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+**Failure View** 
+
+https://user-images.githubusercontent.com/90957976/140600247-6335d078-569c-43e0-a59f-e226a0b14dae.mp4
 
 ### Design Files
 
